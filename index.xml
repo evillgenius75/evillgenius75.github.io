@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Evillgenius75 Gitpage</title>
+    <title>Evillgenius75: An Enterprise Application Architect in the Cloud on Evillgenius75 Gitpage</title>
     <link>https://evillgenius75.github.io/</link>
-    <description>Recent content on Evillgenius75 Gitpage</description>
+    <description>Recent content in Evillgenius75: An Enterprise Application Architect in the Cloud on Evillgenius75 Gitpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Apr 2022 16:24:11 -0500</lastBuildDate><atom:link href="https://evillgenius75.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,17 @@
       <pubDate>Mon, 25 Apr 2022 16:24:11 -0500</pubDate>
       
       <guid>https://evillgenius75.github.io/posts/04252022-archibooks/</guid>
-      <description>Here I present a list of resources I have used or am curretnly using to further my knowldege in the Application Architecture space with a purposeful focus on Cloud Native developement and Distributed Systems design. I would love to hear of other resources, you my reader, may have found useful in your journey in Modern Application design.
-Readings Books  Designing Distributed Systems, Brendan Burns ISBN-13: 978-1491983645 Multi-Cloud Architecture and Governance: Leverage Azure, AWS, GCP, and VMware vSphere to build effective multi-cloud solutions, Jeroen Mulder ISBN-13: 978-1800203198 Solutions Architect&amp;rsquo;s Handbook: Kick-start your career as a solutions architect by learning architecture design principles and strategies, 2nd Edition, Saurabh Shrivastava, Neelanjali Srivastav ISBN-13: 978-1801816618 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, Martin Kleppmann ISBN-13: 978-1449373320 Architecting Cloud Computing Solutions: Build cloud strategies that align technology and economics while effectively managing risk, Kevin L.</description>
+      <description>&lt;p&gt;Here I present a list of resources I have used or am currently using to further my knowldege in the Application Architecture space with a purposeful focus on Cloud Native developement and Distributed Systems design. I would love to hear of other resources, you my reader, may have found useful in your journey in Modern Application design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://evillgenius75.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evillgenius75.github.io/about/</guid>
+      <description>Your Humble Author   I am Eddie Villalba! Professionally I am an Enterprise Application Modernization Architect for Google Cloud. My responsibilities include consulting with Google’s most strategic customers in North America on Cloud Native Microservice and DevOps using Container Orchestration technologies and following Cloud Native Computing patterns and practices.
+Previously, I held senior technical roles over an 11 year tenure at Microsoft. My experience in Enterprise Architecture Design, Distributed Systems Design and Data Center modernization have allowed me to work with many of the Forbes 100 Companies and US Federal Government Agencies developing strategic Software Delivery and Life Cycle plans and implementations.</description>
     </item>
     
   </channel>
